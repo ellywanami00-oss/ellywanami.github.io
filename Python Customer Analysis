@@ -1,0 +1,24 @@
+# 🐍 Customer Insights with Python
+
+## 📌 Overview
+Analyzed customer demographics and purchasing behavior using Python.  
+The project focused on cleaning messy data, exploring customer patterns, and visualizing results for decision-making.
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy)
+- Matplotlib & Seaborn (visualizations)
+- Jupyter Notebook
+
+## 🔑 Key Steps
+1. Cleaned and transformed raw CSV datasets using Pandas  
+2. Performed exploratory data analysis (EDA) on demographics and purchases  
+3. Built visualizations to highlight customer trends  
+4. Documented insights in Jupyter Notebook  
+
+## 🚀 Results / Insights
+- Majority of purchases were from customers aged **25–35**  
+- Frequent buyers were **more likely to purchase premium products**  
+- Clear seasonal trends in purchasing behavior  
+
+## 🔗 Links
+- [Portfolio Website](https://ellywanami.github.io)
