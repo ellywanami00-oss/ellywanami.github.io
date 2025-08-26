@@ -1,0 +1,22 @@
+# 📈 Sales Forecasting in Excel
+
+## 📌 Overview
+Built an Excel forecasting model using historical sales data to predict future revenue.  
+The project used pivot tables, charts, and Excel functions to generate clear insights for managers.
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+
+## 🔑 Key Steps
+1. Imported raw sales data into Excel  
+2. Built pivot tables to summarize monthly sales  
+3. Applied Excel forecasting functions and trendlines  
+4. Designed interactive charts for reporting  
+
+## 🚀 Results / Insights
+- Sales forecast predicted a **12% growth for the next quarter**  
+- Identified underperforming regions for targeted marketing  
+- Automated reporting process with pivot tables  
+
+## 🔗 Links
+- [Portfolio Website](https://ellywanami.github.io)
