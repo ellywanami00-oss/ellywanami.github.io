@@ -1,0 +1,23 @@
+# 🛒 Retail Sales SQL Analysis
+
+## 📌 Overview
+Performed SQL queries on a retail dataset to uncover sales patterns, top products, and customer purchasing behavior.  
+The analysis provides insights into business performance and supports inventory and marketing decisions.
+
+## 🛠️ Tools & Technologies
+- SQL (PostgreSQL/MySQL)
+- DBeaver / PgAdmin (query execution)
+
+## 🔑 Key Steps
+1. Imported and normalized retail sales data  
+2. Wrote SQL queries with joins, group by, and aggregations  
+3. Created summary reports of sales trends  
+4. Extracted insights into top products and customer segments  
+
+## 🚀 Results / Insights
+- Top 10 products accounted for **70% of total sales**  
+- Peak revenue observed in **Q4 (holiday season)**  
+- Repeat customers contributed **65% of revenue**  
+
+## 🔗 Links
+- [Portfolio Website](https://ellywanami.github.io)
