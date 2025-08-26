@@ -1,0 +1,23 @@
+# 📊 Sales Performance Dashboard
+
+## 📌 Overview
+An interactive Power BI dashboard tracking sales revenue, customer growth, and product performance across regions.  
+The dashboard helps management quickly identify high-performing regions and underperforming products.
+
+## 🛠️ Tools & Technologies
+- Power BI
+- Excel (for raw data preparation)
+
+## 🔑 Key Steps
+1. Cleaned and transformed raw sales data in Excel  
+2. Built multiple pages in Power BI with charts and KPIs  
+3. Added filters and slicers for interactive exploration  
+4. Published insights for management reports  
+
+## 🚀 Results / Insights
+- Region A contributed **45% of total sales**  
+- Top 5 products generated **60% of revenue**  
+- Identified seasonal sales patterns for better inventory planning  
+
+## 🔗 Links
+- [Portfolio Website](https://ellywanami.github.io)
